@@ -5,6 +5,6 @@ Tu lam them commands de t luoi qua
 - Run Commands is: 
 - npm run dev
 - Reload Commands: 
-- node .\commands-reload.js
+- node .\pre-boot.js
 ### Config
 - File  config.json
