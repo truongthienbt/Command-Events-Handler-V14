@@ -6,3 +6,5 @@ Tu lam them commands de t luoi qua
 - npm run dev
 - Reload Commands: 
 - node .\pre-boot.js
+### Config
+- File  config.json
